@@ -1,0 +1,3 @@
+Oracle管理口令
+sys: 123Oracle
+scott:123456
